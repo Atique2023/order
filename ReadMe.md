@@ -2,7 +2,6 @@
 - Apple
 - Banana
 - Papaya
-- Orange
 ## Dry fruit booked
 1. Walnuts
 2. Dates
